@@ -1,7 +1,7 @@
 <?php 
 
-	const APP_NAME="NAMEAPP"; //NOMBRE DE MI APLICACIÓN
-	const APP_SESSION_NAME="NAMESESSION"; //NOMBRE DE SESSIÓN DE MI APP
+	const APP_NAME="Reporte"; //NOMBRE DE MI APLICACIÓN
+	const APP_SESSION_NAME="ReporteSession"; //NOMBRE DE SESSIÓN DE MI APP
 
 
 	//CONFIGURACIÓN DE ENCRIPTACIÓN
@@ -13,6 +13,4 @@
 	const APP_URL="http://localhost/".APP_NAME."/";
 
 	date_default_timezone_set("America/Guatemala");
-	setlocale(LC_TIME, 'es', 'spa', 'es_Es')
-
- ?>
+	setlocale(LC_TIME, 'es', 'spa', 'es_Es');

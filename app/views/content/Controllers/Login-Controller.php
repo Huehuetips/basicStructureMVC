@@ -2,8 +2,8 @@
 $data = [	
 	"Title" =>$nView,
 	"Scripts" => [
-		"remember-me",
-		"viewPassword",
+		// "remember-me",
+		// "viewPassword",
 	],
 	"CSS" => [
 	],

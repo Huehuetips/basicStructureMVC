@@ -14,7 +14,7 @@
 			if ($view!="") {
 				$answer = $this->getModelViews($view);
 			} else {
-				$answer = "HOME";
+				$answer = "LOGIN";
 			}
 			
 			return $answer;
